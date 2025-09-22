@@ -78,9 +78,8 @@ dl.download_all_by_prefix(bucket, prefix, "./downloads_all", limit=None)
 ---
 
 ##  Authors
-
-* **Your Name** ([@Divya-Idupulapati](https://github.com/Divya-Idupulapati))
-* **Friend’s Name** ([@PavanMarella10](https://github.com/PavanMarella10))
+([@Divya-Idupulapati](https://github.com/Divya-Idupulapati))
+([@PavanMarella10](https://github.com/PavanMarella10))
 
 ---
 
